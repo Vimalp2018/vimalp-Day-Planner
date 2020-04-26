@@ -1,0 +1,29 @@
+.jumbotron {text-align: center;
+            
+            padding: 5px;
+}
+
+
+
+#plannerContainer { padding: 10px;
+}
+
+.rows { text-align: center;
+
+
+}
+
+.past {
+    background-color: black;
+    color: white;
+  }
+  
+.present {
+    background-color: white;
+    color: green;
+  }
+  
+.future {
+    background-color:blue;
+    color: white;
+  }
